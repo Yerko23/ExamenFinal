@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1086043460961",
+    "firebase_url": "https://crudexamenfinal-default-rtdb.firebaseio.com",
+    "project_id": "crudexamenfinal",
+    "storage_bucket": "crudexamenfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086043460961:android:2d627c053ba0bc4ac7e120",
+        "android_client_info": {
+          "package_name": "com.example.examenfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18P5LMUY8uWUu801_zUb1vcz-IO16Dic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
